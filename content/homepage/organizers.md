@@ -1,6 +1,6 @@
 ---
 title: "Organizer"
-weight: 99
+weight: 98
 header_menu: true
 ---
 
