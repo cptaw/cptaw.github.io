@@ -9,6 +9,6 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Cyberphysical Systems"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+header_headline: "Cyber-physical Technologies for Affective Wellbeing"
+header_subheadline: "Workshop 2023"
 ---
