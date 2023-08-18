@@ -1,29 +1,40 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Program"
+# header_menu_title: "Workshop Program"
+# navigation_menu_title: "Workshop Program"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+Day 1
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+|||
+|-:|:-|
+| 9:00 | Tour of NAIST |
+| 10:00 - 11:30 | Keynote talk (Speaker TBD) |
+| 11:50 | Bus departure from NAIST to Nara station |
+| 12:30 | Arrival to Nara station and hotel check-in |
+| 13:00 | Lunch break |
+| 14:00 | Opening |
+| 14:15 | Participant's presentations |
+| 16:00 | Break |
+| 16:30 | Speed dating (1:1 conversations shifting every 5 minutes) |
+| 18:00 | Moving to social event |
+| 19:00+ | Social event |
 
----
+Day 2
 
-### Nutrition Coaching
-
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-<!-- ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg) -->
-
-Want to learn more about my services? See [dedicated page](services) with more details.
+|||
+|-:|:-|
+| 08:30 | Breakfast |
+| 09:00 | On-site demos by the attendants |
+| 11:00 | Walk and free discussion |
+| 12:00 | Lunch |
+| 13:00 | Open questions brainstorming |
+| 13:30 | Break |
+| 13:45 | Whiteboard session in breakout groups |
+| 15:00 | Results sharing with group presentations |
+| 15:45 | Collective report writing |
+| 16:45 | Funding brainstorming |
+| 17:45 | Wrap up |
+| 18:00 | Dinner |
