@@ -12,9 +12,9 @@ Day 1  - October 27
 |||
 |-:|:-|
 | 9:00 | Tour of NAIST |
-| 10:00 - 11:30 | Keynote talk (Speaker TBD) |
+| 10:00 - 11:30 | [Keynote talk](#keynote) at NAIST |
 | 11:50 | Bus departure from NAIST to Nara station |
-| 12:30 | Arrival to Nara station and hotel check-in |
+| 12:30 | Arrival to Nara station and [hotel check-in](#acommodation) |
 | 13:00 | Lunch break |
 | 14:00 | Opening |
 | 14:15 | Participant's presentations |
