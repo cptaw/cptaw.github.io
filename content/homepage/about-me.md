@@ -1,15 +1,15 @@
 ---
-title: "About Me"
+title: "Organizers"
 weight: 3
 header_menu: true
 ---
 
-<!-- ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) -->
+![Monica Perusquia Hernandez](images/Mon.jpg)
 
-##### Professional Experience
+Dr. Monica Perusquia Hernandez
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+is Assistant Professor in the [Cybernetics and Reality Engineering (CARE) Laboratory](https://carelab.info/en/) at the [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/).
 
-----
-
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+She specializes on Affective Computing and User Experience Quantification to improve Human-Computer Interaction.
+Currently, she is working on the design of electrical stimulation to induce facial expressions, automatic facial expression identification and human navigation modeling.
+Her research interests include affective computing, biosignal processing, augmented human technology and artificial intelligence.
