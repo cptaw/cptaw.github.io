@@ -7,7 +7,7 @@ header_menu: true
 ---
 _All times are provided in {{<extlink text="Japanese Standard Time (JST)." href="https://time.is/JST/" icon="fa fa-external-link">}}_
 
-Day 1
+Day 1  - October 27
 
 |||
 |-:|:-|
@@ -23,7 +23,7 @@ Day 1
 | 18:00 | Moving to social event |
 | 19:00+ | Social event |
 
-Day 2
+Day 2 - October 28
 
 |||
 |-:|:-|
