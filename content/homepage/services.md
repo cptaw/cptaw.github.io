@@ -2,7 +2,7 @@
 title: "Program"
 # header_menu_title: "Workshop Program"
 # navigation_menu_title: "Workshop Program"
-weight: 2
+weight: 3
 header_menu: true
 ---
 _All times are provided in {{<extlink text="Japanese Standard Time (JST)." href="https://time.is/JST/" icon="fa fa-external-link">}}_
