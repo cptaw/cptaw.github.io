@@ -6,8 +6,6 @@ header_menu: false
 
 Participants will be staying at {{<extlink text="Hotel Tenpyo" href="https://hotel-tenpyo-naramachi.jp/en/" icon="fa fa-external-link">}} in the heart of Nara.
 
-<!-- https://acii-conf.net/2022/attend/accommodation/ -->
-
 <!-- ## Access
 
 https://acii-conf.net/2022/attend/venue/ -->
