@@ -40,7 +40,7 @@ title = "Cyber-physical Technologies for Affective Wellbeing"
     title = "Cyber-physical Technologies for Affective Wellbeing"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Workshop for ECRs at NAIST, Japan"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -52,6 +52,6 @@ title = "Cyber-physical Technologies for Affective Wellbeing"
 
     # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
     invertSectionColors = false
-    
+
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
