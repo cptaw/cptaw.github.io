@@ -53,11 +53,18 @@ Talk title: ***Smart eyewear for facial expression recognition and interaction**
 
 <!-- Talk abstract: This presentation will explore the innovative world of smart eyewear using photo reflective sensors, designed to recognize facial expressions in real-life situations. As facial expressions are crucial for understanding a person's emotions and thoughts, it is essential to develop effective recognition technologies that can seamlessly integrate into daily life. The photo reflective sensing approach enables the detection of even the subtle facial expressions. In addition, I will introduce the various applications.  -->
 
+{{< figure class="clear" >}}
+##### Kevin El Haddad  
+
+{{< figure src="images/Kevin.jpeg" width="200" alt="Kevin El Haddad" class="left" >}}
+
+Dr. Kevin El Haddad  is a researcher at the ISIA Lab of University of Mons in Belgium where he works on human-agent interaction applications in general with specific focus on industrial applications and nonverbal expression processing. At the same time, he leads the R&D department at Diabolocom (Paris, France).
+
 
 {{< figure class="clear" >}}
 ##### Kongmeng Liew
 
-{{< figure src="images/Kong.jpeg" width="200" alt="Kongmeng Liew" class="left" >}}
+{{< figure src="images/Kong.jpeg" width="200" alt="Kongmeng Liew" class="right" >}}
 
 Dr. Kongmeng Liew is a cultural psychologist, and lecturer (assistant professor) in psychology of social media and emerging online technologies at the University of Canterbury in New Zealand. His research uses computational methods to examine social psychological topics, focusing on issues like cultural marginalisation, cultural differences in affect and emotion, and the emergence of online culture.
 
@@ -69,7 +76,7 @@ Talk title: ***Groovin’to the cultural beat: Preferences for danceable music r
 {{< figure class="clear" >}}
 ##### Mayra Barrera
 
-{{< figure src="images/Mayra.png" width="200" alt="Mayra Barrera" class="right" >}}
+{{< figure src="images/Mayra.png" width="200" alt="Mayra Barrera" class="left" >}}
 
 Dr. Mayra Donaji Barrera Machuca is an assistant professor at the Faculty of Computer Science, Dalhousie University. She leads the VERTEX lab, which works on understanding people's thinking when working inside a 3D virtual environment and 3DUI design. Her current areas of interest are 3D sketching in VR, skills transfer between VR and Real Life, and depth and spatial perception in VR. {{<extlink text="Personal website." href="https://mayradonaji.net" icon="fa fa-external-link">}}
 
@@ -80,7 +87,7 @@ Talk title: ***New Multimodal sensory inputs for 3D Sketching***
 {{< figure class="clear" >}}
 ##### Melissa Steininger
 
-{{< figure src="images/Melissa.jpeg" width="200" alt="Melissa Steininger" class="left" >}}
+{{< figure src="images/Melissa.jpeg" width="200" alt="Melissa Steininger" class="right" >}}
 
 Melissa Steininger is a research assistant at the Institute for Visual Computing, Department of Computer Science, Bonn-Rhein-Sieg University of Applied Sciences (BRSU), Germany. She recently completed my Master's degree in Visual Computing at BRSU and will soon start her PhD. She has been working at the BRSU for three years, where she supported research on improving interaction in AR, created immersive environments and integrated biosignal measurements into experiments. Her interest lies in the combination of purpose-driven causes, such as promoting well-being as well as enhancing intercultural understanding.
 
@@ -92,16 +99,16 @@ Talk title: ***Affective responses in immersive technologies***
 {{< figure class="clear" >}}
 ##### Miao Cheng
 
-{{< figure src="images/Miao.jpeg" width="200" alt="Miao Cheng" class="right" >}}
+{{< figure src="images/Miao.jpeg" width="200" alt="Miao Cheng" class="left" >}}
 
 Dr. Miao Cheng is an assistant professor at the Research Institute of Electrical Communication of Tohoku University (Sendai, Japan).
 
-<!--   -->
+
 
 {{< figure class="clear" >}}
 ##### Michael Knierim
 
-{{< figure src="images/Michael.jpeg" width="200" alt="Michael Knierim" class="left" >}}
+{{< figure src="images/Michael.jpeg" width="200" alt="Michael Knierim" class="right" >}}
 
 Dr. Michael Knierim is a post-doctoral researcher in the Karlsruhe Institute of Technology (KIT), in Germany - in a region they like to call the LÄND. He has a study background in business and economics and has ventured into industrial engineering and computer science during his PhD. His research focuses on creating knowledge and technologies that improve productivity and well-being in everyday work life. Specifically, He is currently researching the potentials of (1) EEG headphone sensors, and (2) how various sensors can be used to detect and support the so-called flow experience.
 
@@ -113,7 +120,7 @@ Talk abstract:  I would like to share the latest developments in my earables res
 {{< figure class="clear" >}}
 ##### Monica Perusquia-Hernandez
 
-{{< figure src="images/Mon.jpg" width="200" alt="Monica Perusquia-Hernandez" class="right" >}}
+{{< figure src="images/Mon.jpg" width="200" alt="Monica Perusquia-Hernandez" class="left" >}}
 
 Dr. Monica Perusquia-Hernandez is an assistant professor at the Nara Institute of Science and Technology (NAIST), in Japan. She is interested in affective computing, bio-signal processing, and interoceptive awareness enhancement using cyber-physical systems. In particular, she works with Computer Vision, Electromyography, Electroencephalography, Electrocardiography, and Skin Conductance for congruence estimation between facial expressions and emotions when assessing subjective user experience, time perception, and affective awareness.
 
@@ -126,7 +133,7 @@ Talk abstract:  -->
 {{< figure class="clear" >}}
 ##### Naoya Zushi
 
-{{< figure src="images/Naoya.jpg" width="200" alt="Naoya Zushi" class="left" >}}
+{{< figure src="images/Naoya.jpg" width="200" alt="Naoya Zushi" class="right" >}}
 
 Naoya Zushi is a a graduate student in the Doctoral Program in Neuroscience, University of Tsukuba, and Research Fellowship for Young Scientists, JSPS. His background is in psychology, and his research interest is the relationship between emotion and perception.
 
@@ -138,7 +145,7 @@ Talk title: ***Influence of emotional state on taste perception***
 {{< figure class="clear" >}}
 ##### Nilay Yalcin
 
-{{< figure src="images/Nilay.png" width="200" alt="Nilay Yalcin" class="right" >}}
+{{< figure src="images/Nilay.png" width="200" alt="Nilay Yalcin" class="left" >}}
 
 Dr. Nilay Yalcin is an Assistant Professor at Simon Fraser University with a background in Cognitive Science, AI and HCI. Her research focuses on modeling socio-emotional behaviors in computational systems in order to develop interactive systems that can understand human behavior and advance our understanding of human cognition by providing us means to evaluate our assumptions in a systematic and controlled environment. She has been tackling on complex concepts such as empathy, affect, personality and theory of mind in a variety of contexts such as healthcare, education and creativity. She plans to continue pursuing research to understand factors shaping people’s behaviors with their growing personal interactions with virtual agents and develop innovations that would have a positive effect on our society. She is also a proud member of Women in CS and Women in ML groups, and an advocate of Open Science and Open-Source Software.
 
@@ -150,13 +157,23 @@ Talk title: ***Towards Empathy: Bridging Affective and Cognitive Processes***
 {{< figure class="clear" >}}
 ##### Panote Siriaraya
 
-{{< figure src="images/Panote.png" width="200" alt="Panote Siriaraya" class="left" >}}
+{{< figure src="images/Panote.png" width="200" alt="Panote Siriaraya" class="right" >}}
 
 Dr. Panote Siriaraya is an assistant professor at Kyoto Institute of Technology. His field is mainly in HCI, particularly in relation to mental well-being, though lately, he has been doing more work in machine learning and recommender systems. His previous research has been about designing VR systems to help people with dementia, creating gamifications of various cognitive training and cognitive behavioral therapies to make them more engaging, and lately, developing virtual worlds for people who are visually impaired.
 
 Talk title: ***Games and VR technology in healthcare***
 
 <!-- Talk abstract: A range of multidisciplinary research projects related to the use of games and VR technology in healthcare will be discussed. These projects include using gamification to enhance mental healthcare therapies, supporting healthy aging through online 3D virtual environments, using gesture-based interaction and tangible interfaces to augment virtual world interaction and engage people with dementia, and using AR based spatialized 3D sound to create a running application where users can compete against themselves in real-time. The central theme of these projects lies in the theoretical and practical demonstration of how VR and game technology could be applied to solve real-world problems, often by blending the physical and virtual worlds. -->
+
+
+
+{{< figure class="clear" >}}
+##### Scinob Kuroki
+
+{{< figure src="http://www.kecl.ntt.co.jp/people/kuroki.shinobu/Natchan.jpg" width="200" alt="Scinob Kuroki" class="left" >}}
+
+Dr. Scinob Kuroki is a senior research scientist at NTT Communication Science Laboratories (Tokyo, Japan).
+{{<extlink text="Personal website." href="http://www.kecl.ntt.co.jp/people/kuroki.shinobu/index-e.html" icon="fa fa-external-link">}}
 
 
 
