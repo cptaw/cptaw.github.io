@@ -58,7 +58,7 @@ Talk title: ***Smart eyewear for facial expression recognition and interaction**
 
 {{< figure src="images/Kevin.jpeg" width="200" alt="Kevin El Haddad" class="left" >}}
 
-Dr. Kevin El Haddad  is a researcher at the ISIA Lab of University of Mons in Belgium where he works on human-agent interaction applications in general with specific focus on industrial applications and nonverbal expression processing. At the same time, he leads the R&D department at Diabolocom (Paris, France).
+Kevin El Haddad  is a researcher at the ISIA Lab of University of Mons in Belgium where he works on human-agent interaction applications in general with specific focus on industrial applications and nonverbal expression processing. At the same time, he leads the R&D department at Diabolocom (Paris, France).
 
 
 {{< figure class="clear" >}}
@@ -102,7 +102,6 @@ Talk title: ***Affective responses in immersive technologies***
 {{< figure src="images/Miao.jpeg" width="200" alt="Miao Cheng" class="left" >}}
 
 Dr. Miao Cheng is an assistant professor at the Research Institute of Electrical Communication of Tohoku University (Sendai, Japan).
-
 
 
 {{< figure class="clear" >}}
