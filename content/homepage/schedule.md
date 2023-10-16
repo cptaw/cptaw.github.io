@@ -17,18 +17,18 @@ Day 1  - October 27
 | 12:30 | Arrival to Nara station and [hotel check-in](#accommodation) |
 | 13:00 | Lunch break |
 | 14:00 | Opening |
-| 14:15 | Participant's presentations |
-| 16:00 | Break |
+| 14:15 | Participant's presentations (10 x 12 minutes) |
+| 16:15 | Break |
 | 16:30 | Speed dating (1:1 conversations shifting every 5 minutes) |
 | 18:00 | Moving to social event |
-| 19:00+ | Social event |
+| 18:30 | Social event |
 
 Day 2 - October 28
 
 |||
 |-:|:-|
 | 08:30 | Breakfast |
-| 09:00 | On-site demos by the attendants |
+| 09:00 | Participant's presentations (10 x 12 minutes) |
 | 11:00 | Walk and free discussion |
 | 12:00 | Lunch |
 | 13:00 | Open questions brainstorming |
